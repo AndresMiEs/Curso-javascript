@@ -1,0 +1,13 @@
+{
+  "name": "curso-javascript",
+  "version": "1.0.0",
+  "description": "Aqui realizaremos el primer curso de Javascript",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "saludar": "node hola-mundo.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andres Millán",
+  "license": "ISC"
+}
